@@ -1,13 +1,12 @@
-#Logboek **Joske Vermeulen**
-<!--voorbeeld data volgt:-->
-##Week 1 (15/5/15 - 21/5/15)
+#Logboek **Michael Senft**
+##Week 1 (21/9/15 - 27/9/15)
 ###Maandag
-*Goede progressie
-*Probleem x opgelost
-** Bleek aan module Y te liggen
-###Dinsdag
-*Trage vooruitgang
-*Probleem x toch niet opgelost
-** Geprobeerd module z aan te passen
-** Geprobeerd om techniek i te verbeteren
-** Stagementor gaf tip om x anders aan te pakken
+*Kennismaking met het bedrijf
+*Ze willen hun opslitsen van services voor ISV en kmo
+**Tot nu was dit onder één dak  
+
+*Research voor de Windows Azure pack
+*Het probleem is dat hun datacenter op VMWare draait maar dan moeten ze veel werk doen wat de klant zelf zou kunnen
+**Dus ze zijn aan het experimenteren met de Windows Azure pack (WAP)   
+
+*Ook meegewerkt met developper Yannick aan een script om random reversable paswoorden te genereren. Dus zo kennis gemaakt met powershell  
